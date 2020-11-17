@@ -1,0 +1,2 @@
+E:\PG-DAC Material\.NetStudyMaterial\AmazonOnlineApp\AmazonAppOnline\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\PG-DAC Material\.NetStudyMaterial\AmazonOnlineApp\AmazonAppOnline\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache

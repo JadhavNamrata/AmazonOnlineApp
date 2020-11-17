@@ -1,0 +1,5 @@
+E:\PG-DAC Material\.NetStudyMaterial\AmazonOnlineApp\AmazonAppOnline\MathLib\bin\Debug\MathLib.dll
+E:\PG-DAC Material\.NetStudyMaterial\AmazonOnlineApp\AmazonAppOnline\MathLib\bin\Debug\MathLib.pdb
+E:\PG-DAC Material\.NetStudyMaterial\AmazonOnlineApp\AmazonAppOnline\MathLib\obj\Debug\MathLib.csproj.CoreCompileInputs.cache
+E:\PG-DAC Material\.NetStudyMaterial\AmazonOnlineApp\AmazonAppOnline\MathLib\obj\Debug\MathLib.dll
+E:\PG-DAC Material\.NetStudyMaterial\AmazonOnlineApp\AmazonAppOnline\MathLib\obj\Debug\MathLib.pdb

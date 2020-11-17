@@ -1,0 +1,5 @@
+E:\PG-DAC Material\.NetStudyMaterial\AmazonOnlineApp\AmazonAppOnline\Catalog\bin\Debug\Catalog.dll
+E:\PG-DAC Material\.NetStudyMaterial\AmazonOnlineApp\AmazonAppOnline\Catalog\bin\Debug\Catalog.pdb
+E:\PG-DAC Material\.NetStudyMaterial\AmazonOnlineApp\AmazonAppOnline\Catalog\obj\Debug\Catalog.csproj.CoreCompileInputs.cache
+E:\PG-DAC Material\.NetStudyMaterial\AmazonOnlineApp\AmazonAppOnline\Catalog\obj\Debug\Catalog.dll
+E:\PG-DAC Material\.NetStudyMaterial\AmazonOnlineApp\AmazonAppOnline\Catalog\obj\Debug\Catalog.pdb

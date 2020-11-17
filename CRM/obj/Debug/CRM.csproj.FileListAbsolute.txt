@@ -1,0 +1,5 @@
+E:\PG-DAC Material\.NetStudyMaterial\AmazonOnlineApp\AmazonAppOnline\CRM\bin\Debug\CRM.dll
+E:\PG-DAC Material\.NetStudyMaterial\AmazonOnlineApp\AmazonAppOnline\CRM\bin\Debug\CRM.pdb
+E:\PG-DAC Material\.NetStudyMaterial\AmazonOnlineApp\AmazonAppOnline\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+E:\PG-DAC Material\.NetStudyMaterial\AmazonOnlineApp\AmazonAppOnline\CRM\obj\Debug\CRM.dll
+E:\PG-DAC Material\.NetStudyMaterial\AmazonOnlineApp\AmazonAppOnline\CRM\obj\Debug\CRM.pdb
